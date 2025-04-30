@@ -4,3 +4,6 @@
 #### More Lesser
 ##### Even More Lesser
 ###### Lessest
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

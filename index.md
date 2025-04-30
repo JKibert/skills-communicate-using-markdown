@@ -19,3 +19,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` SQL
 SELECT * FROM Table
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+- [ ] - [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] Hide from the world 
